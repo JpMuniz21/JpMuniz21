@@ -2,14 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JpMuniz21&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpMuniz21&layout=compact&theme=dracula" height="150" alt="languages graph" />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
