@@ -1,9 +1,9 @@
-<h2 align="left">Oii! 👋 Meu nome é João Paulo Muniz! Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza.</h2>
+<h2 align="left">Oi 👋! Meu nome é João Paulo Muniz! Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza.</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JpMuniz21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JpMuniz21&show_icons=true&theme=dracula" height="150" alt="stats graph" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpMuniz21&layout=compact&theme=dracula" height="150" alt="languages graph" />
 </div>
