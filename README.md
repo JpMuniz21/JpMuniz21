@@ -19,12 +19,6 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=JpMuniz21&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
-
-###
-
-<div align="left">
   <a href="mailto:munizjoaopaulo21@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
