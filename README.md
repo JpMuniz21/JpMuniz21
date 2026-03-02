@@ -1,4 +1,4 @@
-<h2 align="left">Olá! 👋 Meu nome é João Paulo Muniz! Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza.</h2>
+<h2 align="left">Olá! 👋 Meu nome é João Paulo Muniz! Sou estudante do terceiro semestere de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza.</h2>
 
 ###
 
